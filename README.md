@@ -71,4 +71,4 @@ This project is open-source and free to modify.
 
 ## Credits
 
-Developed by [Your Name].
+Developed by Artur Meus.
